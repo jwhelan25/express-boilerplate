@@ -6,13 +6,18 @@ This is a boilerplate project used for starting new projects!
 
 Complete the following steps to start a new project (NEW-PROJECT-NAME):
 
-1. Clone this repository to your local machine `git clone https://github.com/jwhelan25/express-boilerplate.git NEW-PROJECTS-NAME`
+1. Clone this repository to your local machine 
+`git clone https://github.com/jwhelan25/express-boilerplate.git (NEW-PROJECT-NAME)`
 2. `cd` into the cloned repository
-3. Make a fresh start of the git history for this project with `rm -rf .git && git init`
-4. Install the node dependencies `npm install`
-5. Move the example Environment file to `.env` that will be ignored by git and read by the express server `mv example.env .env`
+3. Make a fresh start of the git history for this project with 
+`rm -rf .git && git init`
+4. Install the node dependencies 
+`npm install`
+5. Move the example Environment file to `.env` that will be ignored by git and read by the express server 
+`mv example.env .env`
 6. Edit the contents of the `package.json` to use NEW-PROJECT-NAME instead of `"name": "express-boilerplate",`
-7. After an initial commit, rename the master branch to main with `git branch -M main`
+7. After an initial commit, rename the master branch to main with 
+`git branch -M main`
 
 ## Scripts
 
